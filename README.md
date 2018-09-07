@@ -1,2 +1,4 @@
 # hello_world
-A test installation
+Hi world
+This is Ian creeping out of the primeval Git-Swamp
+An exploratory exercise
